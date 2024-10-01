@@ -1,0 +1,15 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic connection between a Node.js application and a MongoDB database. It uses the `mongodb` package to connect to a MongoDB instance and perform simple operations like inserting and fetching documents from a collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.9.0"
+  }
+}
